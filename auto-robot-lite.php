@@ -3,7 +3,7 @@
  * Plugin Name: Auto Robot Lite - RSS Feed Autoblogging
  * Plugin URI: http://wpautorobot.com/
  * Description: Generate WordPress posts automatically from RSS Feed, Social Media, Videos, Images, Sound and etc
- * Version: 3.8.51
+ * Version: 3.8.52
  * Author: wphobby
  * Author URI: https://wpautorobot.com/pricing
  *

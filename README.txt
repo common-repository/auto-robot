@@ -4,7 +4,7 @@ Contributors: darell
 Tags: rss post importer, wordpress aggregator plugin, wp rss aggregator feed to post, wordpress news feed plugin, wp aggregator, feedzy rss, autoblog, rss, feeds, news aggregator, automatic post, instagram, youtube, facebook, twitter, vimeo, flickr
 Requires at least: 4.0
 Tested up to: 6.6.2
-Stable tag: 3.8.51
+Stable tag: 3.8.52
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=eeuAVH5W2GM
 <li>Autoblogging videos from Youtube by keywords, playlist and channel</li>
 <li>Autoblogging videos from Vimeo by keywords, user profile link</li>
 <li>Autoblogging images from Flickr keywords, user profile link</li>
-<li>Set the custom post template using shortcodes</li>
+<li>Set custom post template using shortcodes</li>
 <li>Set original images as post featured image</li>
 <li>Save original images to Wordpress media library</li>
 <li>Detailed logs and reporting system</li>
